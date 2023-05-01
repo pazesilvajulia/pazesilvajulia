@@ -4,7 +4,7 @@
 ## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on developing my skills.</p>
 <p>🙏 I'm looking for help to delve deeper into the dev world.</p>
-<p>🌱 I'm currently learning C, Javascript and Phyton.</p>
+<p>🌱 I'm currently learning HTML, CSS, Javascript and Phyton.</p>
 <p>📫 How to reach me? pazesilvajulia@gmail.com</p>
 
 ## 💻 Skills
