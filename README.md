@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<br><br><br><br><h1 align="center">Hi 👋, I'm Julia Paz</h1>
+<br><br><br><br><h1 align="center">Hey 👋, I'm Julia Paz</h1>
 <h3 align="center">Embracing the <b>future</b> with the <b>tools of the present!</b></h3>
 
 
@@ -21,10 +21,10 @@
 </p>
 
 ## 💫 Little Bit More About Me
-<p>🔭 I'm currently working on developing my skills.</p>
+<p>🔭 I'm an undergraduate in Software Engineering.</p>
 <p>🙏 I'm looking for help to delve deeper into the dev world.</p>
-<p>🌱 I'm currently learning PHP, Java, Javascript and Phyton.</p>
-<p>📫 How to reach me? pazesilvajulia@gmail.com</p>
+<p>🌱 I have a strong preference for front-end, but I'm not completely closed to back-end projects!</p>
+<p>📫 Want to reach me? pazesilvajulia@gmail.com</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
