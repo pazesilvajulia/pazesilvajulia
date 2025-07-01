@@ -3,6 +3,7 @@
 <br><br><br><br><h1 align="center">Hey 👋, I'm Julia Paz</h1>
 <h3 align="center">Embracing the <b>future</b> with the <b>tools of the present!</b></h3>
 
+---
 
 Sou tecnica em desenvolvimento de sistemas, graduanda em Engenharia de Software, apaixonada por tecnologia, design e tudo que envolve desenvolvimento de soluções criativas. Tenho foco em front-end, mas também exploro o back-end para ampliar minhas habilidades como desenvolvedora.
 
