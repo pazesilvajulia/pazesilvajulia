@@ -2,7 +2,8 @@
 
 I'm Júlia Paz, a Systems Development Technician and Software Engineering undergraduate student.
 
-I'm currently shifting my focus back to **back-end development** — mainly working with **Java**, but I'm also open to exploring other languages and technologies.
+I'm currently shifting my focus to **back-end development** — mainly working with **Java**, but I'm also open to exploring other languages and technologies. 
+Oh, but don't be fooled... Front-end will always have a special place in my heart! 
 
 Currently learning and building with:
 - Java & Spring Boot
