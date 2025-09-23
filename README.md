@@ -7,7 +7,7 @@ Oh, but don't be fooled... Front-end will always have a special place in my hear
 
 Currently learning and building with:
 - Java & Spring Boot
-- API development
+- React, Node.js, Vite
 - Database design & SQL
 - Clean code principles
 
